@@ -1,0 +1,14 @@
+.active-nav-link {
+    color: orangered !important ;
+}
+
+.selected-search{
+    background-color: #f15d30 !important;
+    color: white !important;
+  }
+
+  .destination-table {
+    table, th, td {
+        border: 1px solid;
+      }
+  }
